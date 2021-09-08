@@ -1,4 +1,7 @@
-package com.company;
+package com.company.Lesson_5;
+
+import com.company.Lesson_5.Computer;
+
 //Создать класс компьютер.
 //isOn boolean
 //- процессор Boolean
