@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Lesson_5;
 //Создать класс компьютер.
 //isOn boolean
 //- процессор Boolean
@@ -18,7 +18,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Test raboty Lenovo: ");
-        Computer lenovo = new Computer(true, true, true, true, 15);
+        Computer_new lenovo = new Computer_new(true, true, true, true, 15);
         lenovo.vyvod();
         lenovo.rabotaKompa();
 
